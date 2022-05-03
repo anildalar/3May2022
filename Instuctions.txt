@@ -1,0 +1,48 @@
+Github.com   vs    GIT
+
+
+Code Save				<-----  Code Upload
+
+GIT can manage different version
+
+Web Development
+Website
+
+			Frontend + Backend
+
+Frontend
+	HTML (Structure)
+	CSS  (Presentation)
+	JS   ( Behaviour )
+
+Backend
+			ServerSide Scripting Language
+			Database (Data)(SQL)
+
+
+filname.exention
+
+index.html
+
+instructions.txt
+
+Rule 
+#1. Always create a file with name "index.html"
+
+Anything which is wrapped inside <> angle brackets will be called tags
+
+<anything> = <tags>
+<anil>
+
+<h1>
+<p>
+<div>
+
+<starttag>Content/Child Area</endtag>
+Types of Tags
+
+1. Singular tags
+	Those tags which dont have a closing tags is called singular tag
+	<img >
+2. Paired Tags
+	<div></div>
